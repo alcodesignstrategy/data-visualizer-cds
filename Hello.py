@@ -46,3 +46,5 @@ if uploaded_file is not None:
         )
     else:
         st.write("The uploaded file is empty or not properly formatted.")
+
+print("Hello World")
